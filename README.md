@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmanuel Lusenji
 - 👀 I’m interested: Data Science / Machine Learning
-- 🌱 I’m currently learning: Jax and Natural Language Processing
+- 🌱 I’m currently learning: Andres Ng's Deep Learning Specialization & Jax
 - 💞️ I’m looking to collaborate on: Open Source Projects/ ML work
 - 📫 How to reach me: ping me on twitter @elusenji
 
