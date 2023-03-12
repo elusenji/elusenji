@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmanuel Lusenji
-- 👀 I’m interested: Data Science / Machine Learning
-- 🌱 I’m currently learning: Coursera Deep Learning Specialization
+- 👀 I’m interested: Data Engineering, Machine Learning & Deep Learning
+- 🌱 I’m currently working on the DeepLearning.AI TensorFlow Developer Certification
 - 💞️ I’m looking to collaborate on: ML jobs/ Open Source Projects
 - 📫 How to reach me: ping me on twitter @elusenji
 
